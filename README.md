@@ -1,8 +1,8 @@
 # Two-Sentence Horror
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
-[![status](https://img.shields.io/badge/status-open-brightgreen)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
-[![harness](https://img.shields.io/badge/harness-program%2Fv1-blue)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Tigapandax/two-sentence-horror-akun1/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Tigapandax/two-sentence-horror-akun1/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
 
 Entry for the [Two-Sentence Horror](https://make.fun/c/u-suroto-two-sentence-horror-acea9253) bounty on make.fun ($2, free entry).
 
