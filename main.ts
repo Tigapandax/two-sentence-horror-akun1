@@ -23,6 +23,9 @@ if (story.includes("\n") || story.includes("\r")) {
 if (story !== story.trim()) {
   throw new Error("entry must not have leading or trailing whitespace");
 }
+if (story.includes("  ")) {
+  throw new Error("entry must separate its two sentences with a single space");
+}
 
 // Exactly two sentences: split on sentence-ending punctuation (. ! ?),
 // allowing a trailing closing quote/paren after the final mark.
